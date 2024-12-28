@@ -16,9 +16,8 @@ const App = () => {
         flex: 1, 
         textAlign: 'center' 
       }}>
-        <h1>Welcome to Our Landing Page</h1>
+        <h1>Bem-Vindo à página do LEFT</h1>
         <p>This is a simple landing page built with React.</p>
-        <button onClick={() => alert('Button Clicked!')}>Click Me</button>
       </div>
     </div>
   );
